@@ -12,7 +12,7 @@ install:
 script:
   - git checkout develop
   - cd src
-  - ../binaries/hugo --theme=ghoust
+  - ../binaries/hugo 
 
 # Deploy to GitHub pages
 deploy:
