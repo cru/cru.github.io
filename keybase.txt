@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mwloweri
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cru.ucalgary.ca
+  * I am mwloweri (https://keybase.io/mwloweri) on keybase.
+  * I have a public key ASD6GmgdyPh_ykgM-54yN8FyEUe98JCzppc9wazS8GLcvgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fa1a681dc8f87fca480cfb9e3237c1721147bdf090b3a6973dc1acd2f062dcbe0a",
+      "host": "keybase.io",
+      "kid": "0120fa1a681dc8f87fca480cfb9e3237c1721147bdf090b3a6973dc1acd2f062dcbe0a",
+      "uid": "f64817d48d07a6daaf0ca46bff7b9519",
+      "username": "mwloweri"
+    },
+    "merkle_root": {
+      "ctime": 1505957727,
+      "hash": "048add42f38b32be7a8abae31cdb2a47615facf95e62b48bff7afe0503a22e81f43c5010361de3b761935a1112ead5c54cbf0dc358322eb3fe3e7e6bc1d819bb",
+      "hash_meta": "67018a76e879fdd30ed98fddb55ace6c24fd46410d4dcb7c4b889b1b1cda0760",
+      "seqno": 1433957
+    },
+    "service": {
+      "hostname": "cru.ucalgary.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505957834,
+  "expire_in": 504576000,
+  "prev": "cc64722926682ff0600fc0c58c20dd4fe8268a49a1b9e9b7ff90417328c05795",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+hpoHcj4f8pIDPueMjfBchFHvfCQs6aXPcGs0vBi3L4Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmExYTY4MWRjOGY4N2ZjYTQ4MGNmYjllMzIzN2MxNzIxMTQ3YmRmMDkwYjNhNjk3M2RjMWFjZDJmMDYyZGNiZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmExYTY4MWRjOGY4N2ZjYTQ4MGNmYjllMzIzN2MxNzIxMTQ3YmRmMDkwYjNhNjk3M2RjMWFjZDJmMDYyZGNiZTBhIiwidWlkIjoiZjY0ODE3ZDQ4ZDA3YTZkYWFmMGNhNDZiZmY3Yjk1MTkiLCJ1c2VybmFtZSI6Im13bG93ZXJpIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA1OTU3NzI3LCJoYXNoIjoiMDQ4YWRkNDJmMzhiMzJiZTdhOGFiYWUzMWNkYjJhNDc2MTVmYWNmOTVlNjJiNDhiZmY3YWZlMDUwM2EyMmU4MWY0M2M1MDEwMzYxZGUzYjc2MTkzNWExMTEyZWFkNWM1NGNiZjBkYzM1ODMyMmViM2ZlM2U3ZTZiYzFkODE5YmIiLCJoYXNoX21ldGEiOiI2NzAxOGE3NmU4NzlmZGQzMGVkOThmZGRiNTVhY2U2YzI0ZmQ0NjQxMGQ0ZGNiN2M0Yjg4OWIxYjFjZGEwNzYwIiwic2Vxbm8iOjE0MzM5NTd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY3J1LnVjYWxnYXJ5LmNhIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzAifSwiY3RpbWUiOjE1MDU5NTc4MzQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiY2M2NDcyMjkyNjY4MmZmMDYwMGZjMGM1OGMyMGRkNGZlODI2OGE0OWExYjllOWI3ZmY5MDQxNzMyOGMwNTc5NSIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBvcr7SSJ1sY30UrZxHBnnJ7gA2MfgJkW8qH+GxdwQgQfy/GOHggSvgi5FD9P9BDbbpIE7cWFFgj/GEgyrt7rgioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBe2JH5gtPCvdZlwevtjxNmNfokbvLayf1lCcVxIvszDaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mwloweri
+
+==================================================================
